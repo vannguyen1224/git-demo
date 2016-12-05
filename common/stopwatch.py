@@ -23,4 +23,7 @@ class Stopwatch(object):
     
     def elapsed(self):
         return (self._now() - self.start)
+		
+	def van_test(self):
+		pass
     

@@ -29,4 +29,5 @@ class Platform(object):
     WINDOWS = "WINDOWS"
     MAC = "MAC"
     ANY = "ANY"
+	VAN = "VAN_TEST"
     
