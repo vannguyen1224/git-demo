@@ -23,15 +23,3 @@ class Stopwatch(object):
     
     def elapsed(self):
         return (self._now() - self.start)
-		
-	def van_test(self):
-		pass
-    
-	def van2(self):
-		pass
-		
-    def van1(self):
-		pass
-		
-	def van3(self):
-		pass
