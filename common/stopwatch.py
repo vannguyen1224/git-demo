@@ -23,3 +23,6 @@ class Stopwatch(object):
     
     def elapsed(self):
         return (self._now() - self.start)
+		
+	def testsetset(self):
+		pass
