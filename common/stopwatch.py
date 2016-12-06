@@ -27,3 +27,5 @@ class Stopwatch(object):
 	def van_test(self):
 		pass
     
+	def van2(self):
+		pass
